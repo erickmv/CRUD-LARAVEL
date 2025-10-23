@@ -1,0 +1,37 @@
+# Sistema de Gestión CRUD - Laravel 11
+# Desarrollado por: Erick Adrian Mendez Villalpando
+# Versión: 1.0
+# Fecha: Octubre 2025
+
+## Descripción
+Sistema web completo para la gestión integral de clientes y productos desarrollado con Laravel 11 y MySQL.
+
+## Características Principales
+- CRUD completo para Clientes y Productos
+- Dashboard interactivo con gráficos en tiempo real
+- Diseño moderno y responsive
+- Base de datos MySQL optimizada
+- Suite de tests completa (65 tests pasando)
+- Validaciones robustas
+
+## Tecnologías Utilizadas
+- Laravel 11
+- PHP 8.3
+- MySQL/MariaDB
+- Bootstrap 5
+- Chart.js
+- SweetAlert2
+- PHPUnit
+
+## Instalación
+1. composer install
+2. cp .env.example .env
+3. Configurar base de datos en .env
+4. php artisan migrate
+5. php artisan serve
+
+## Testing
+php artisan test
+
+## Autor
+Erick Adrian Mendez Villalpando
