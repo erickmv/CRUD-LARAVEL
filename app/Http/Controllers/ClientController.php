@@ -74,4 +74,3 @@ class ClientController extends Controller
         return back()->with('ok','Cliente eliminado exitosamente');
     }
 }
-L
